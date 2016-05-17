@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    int maximo=0;
+    int maxi=0;
     char resp;
     do{
 
@@ -32,15 +32,15 @@ int main()
     do
     {
         _flushall();
-        cout<<" QUIERE CONTINUAR? :";
+        cout<<"Desea Continuar .....:";
         cin.get(resp);
         _flushall();
     } while ((toupper(resp) !='S') and (toupper(resp) !='N'));
 
     if (pago>maxi)
-    {maximo=pago;}
+    {maxi=pago;}
 
     } while ((toupper(resp)=='S'));
-    cout<<" PAGO MAYOR "<<maximo<<endl;
+    cout<<"Sueldo mayor "<<maxi<<endl;
 }
 
