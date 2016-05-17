@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1461711451 source:c:\users\daniel flores\desktop\arduino\ejercicio en clase\tresnumeroyencotrarmayor\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463007818 source:c:\users\daniel flores\desktop\tareas while\repechaje daniel flores\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

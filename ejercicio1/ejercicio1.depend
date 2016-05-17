@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462745572 source:c:\users\n-gga\desktop\daniel morales tareas\programacion de sistemas\ejercicio1\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
